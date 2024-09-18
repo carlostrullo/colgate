@@ -1,0 +1,8 @@
+mkdir -p ~/.config/autostart
+nano ~/.config/autostart/play_video.desktop
+
+
+[Desktop Entry]
+Type=Application
+Name=PlayVideo
+Exec=python3 /path/to/your/script.py
